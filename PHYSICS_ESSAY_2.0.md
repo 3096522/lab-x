@@ -1,4 +1,4 @@
-
+![WITS Logo](wits_logo.png)
 
 ---
 
