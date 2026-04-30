@@ -18,6 +18,19 @@ Humanity’s models of the solar system reflect our evolving knowledge. The geoc
 
 Processes within the solar system continue to shape its evolution. Asteroids and comets traverse space, sometimes colliding with planets or breaking apart. Moons orbit their planets, influenced by tidal forces that drive volcanic activity or ocean tides. The Kuiper Belt and Oort Cloud store icy bodies that occasionally send comets inward. Solar wind streams outward from the Sun, interacting with planetary magnetic fields and atmospheres. Gravity governs all motion, ensuring orbital stability, while collisions and impacts reshape planetary surfaces, leaving craters and altering geology.
 
+Planet Composition Table
+
+| Planet   | Main Elements | Core Composition | Atmosphere Composition |
+|-----------|----------------|------------------|------------------------|
+| **Mercury** | ~70% metal (iron, nickel), ~30% silicate rock | Large iron core (~40% of volume) | Very thin exosphere (oxygen, sodium, hydrogen, helium, potassium) |
+| **Venus** | Iron core, silicate mantle/crust | Iron + rock | 96% CO₂, 3.5% N₂, trace sulfur dioxide |
+| **Earth** | Iron (core), silicates (mantle/crust) | Iron + nickel core | 78% N₂, 21% O₂, trace CO₂, argon |
+| **Mars** | Iron, nickel, silicates | Iron + silicate mantle | 95% CO₂, 2.7% N₂, 1.6% Ar |
+| **Jupiter** | ~75% hydrogen, ~25% helium | Rock/metal/ice core | Hydrogen, helium, methane, ammonia, water vapor |
+| **Saturn** | ~75% hydrogen, ~25% helium | Rock/metal/ice core | Hydrogen, helium, methane, ammonia |
+| **Uranus** | Hydrogen, helium, water, methane, ammonia | Rock/metal/ice core | Hydrogen, helium, methane (gives blue color) |
+| **Neptune** | Hydrogen, helium, water, methane, ammonia | Rock/metal/ice core | Hydrogen, helium, methane (blue color) |
+
 Life is thought to have emerged only on Earth about four billion years ago. Simple molecules such as water, methane, and ammonia combined under energy from lightning and sunlight, producing amino acids and nucleotides—the building blocks of proteins and DNA. In Earth’s oceans, these molecules formed a “primordial soup,” assembling into complex structures. Lipid membranes enclosed them, creating protocells capable of maintaining internal chemistry. RNA and later DNA enabled replication and storage of genetic information. Natural selection favored stable, self-replicating cells, which evolved into complex organisms. While Mars, Europa, and Enceladus may have had suitable conditions, Earth remains the only confirmed cradle of life.
 
 Evidence for the spherical nature of planets dates back to ancient Greek thinkers. Aristotle observed Earth’s curved shadow on the Moon during eclipses. Sailors noted ships disappearing hull-first over the horizon, demonstrating Earth’s curvature. Galileo’s telescope revealed round disks of planets and moons, while Newton’s theory of gravity explained why large bodies naturally form spheres. Later, circumnavigation and satellite orbits confirmed planetary curvature beyond doubt.
