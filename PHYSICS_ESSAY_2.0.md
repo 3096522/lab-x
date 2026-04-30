@@ -1,4 +1,4 @@
-![Image](solar_system_realistic_view.jpeg)
+![WITS Logo](wits_logo.png)
 
 ---
 
