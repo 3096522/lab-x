@@ -8,7 +8,7 @@ From the earliest days of human existence, curiosity has driven us to explore th
 
 The solar system, composed of eight planets, one star, several dwarf planets, asteroids, comets, and interstellar dust, formed about 4.6 billion years ago. It originated from a dense cloud of gas and dust, likely triggered by a nearby supernova. The collapse of this cloud created a spinning solar nebula. At its center, gravity ignited nuclear fusion, giving birth to the Sun, which captured 99% of the system’s matter. The remaining material coalesced into planets, moons, and smaller bodies. Rocky planets formed close to the Sun, while gas giants developed farther away where ices could condense. Jupiter’s immense gravity prevented some material from forming planets, leaving behind the asteroid belt.
 
-
+![alt text](path-to-image)
 
 Humanity’s models of the solar system reflect our evolving knowledge. The geocentric model, developed by Ptolemy around 150 CE, placed Earth at the center and explained retrograde motion using “epicycles.” In 1543, Nicolaus Copernicus introduced the heliocentric model, proposing that the Sun, not Earth, was central. While revolutionary, it still assumed circular orbits. Johannes Kepler improved this in 1609, showing that planets move in ellipses and formulating his three laws of planetary motion, which allowed precise predictions. Finally, Isaac Newton’s gravitational model in 1687 provided the physical explanation, identifying gravity as the force maintaining planetary orbits. These successive models illustrate humanity’s growing ability to explain celestial phenomena with increasing accuracy.
 
